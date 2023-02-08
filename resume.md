@@ -2,7 +2,7 @@
 ## I'm a second-year audio student
 
 
-![a headshot of Olivia in black tank top and purple cardigan]()
+![a headshot of Olivia in black tank top and purple cardigan](ksuzuki202205100203.jpg)
 
 ## Skills
 - audio production
